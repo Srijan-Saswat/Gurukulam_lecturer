@@ -1,0 +1,224 @@
+1
+00:00:00,000 --> 00:00:02,768
+Welcome to today's presentation.
+
+2
+00:00:02,768 --> 00:00:05,536
+Foundations of Physics.
+
+3
+00:00:05,536 --> 00:00:08,304
+Understanding Numbers, Patterns, and Logic.
+
+4
+00:00:08,304 --> 00:00:10,992
+Moving on to slide 2.
+
+5
+00:00:10,992 --> 00:00:13,680
+What is Physics?
+
+6
+00:00:13,680 --> 00:00:16,368
+Study of numbers, shapes, patterns, and.
+
+7
+00:00:16,368 --> 00:00:19,056
+relationships.
+
+8
+00:00:19,056 --> 00:00:21,744
+Helps solve real-world problems.
+
+9
+00:00:21,744 --> 00:00:24,432
+Used in science, technology, and daily life.
+
+10
+00:00:24,432 --> 00:00:27,648
+Moving on to slide 3.
+
+11
+00:00:27,648 --> 00:00:30,864
+Types of Numbers.
+
+12
+00:00:30,864 --> 00:00:34,080
+Natural Numbers: 1, 2, 3.
+
+13
+00:00:34,080 --> 00:00:37,296
+Whole Numbers: 0, 1, 2.
+
+14
+00:00:37,296 --> 00:00:40,512
+Integers: -2, -1, 0, 1.
+
+15
+00:00:40,512 --> 00:00:43,728
+Rational and Irrational Numbers.
+
+16
+00:00:43,728 --> 00:00:46,299
+Moving on to slide 4.
+
+17
+00:00:46,299 --> 00:00:48,870
+Basic Arithmetic Operations.
+
+18
+00:00:48,870 --> 00:00:51,442
+Addition (+).
+
+19
+00:00:51,442 --> 00:00:54,013
+Subtraction (-).
+
+20
+00:00:54,013 --> 00:00:56,585
+Multiplication (×).
+
+21
+00:00:56,585 --> 00:00:59,156
+Division (÷).
+
+22
+00:00:59,156 --> 00:01:01,728
+Example: 8 ÷ 2 = 4.
+
+23
+00:01:01,728 --> 00:01:04,333
+Moving on to slide 5.
+
+24
+00:01:04,333 --> 00:01:06,939
+Order of Operations (BODMAS).
+
+25
+00:01:06,939 --> 00:01:09,545
+Brackets.
+
+26
+00:01:09,545 --> 00:01:12,150
+Orders (powers, roots).
+
+27
+00:01:12,150 --> 00:01:14,756
+Division and Multiplication.
+
+28
+00:01:14,756 --> 00:01:17,362
+Addition and Subtraction.
+
+29
+00:01:17,362 --> 00:01:19,968
+Example: 2 + 3 × 4 = 14.
+
+30
+00:01:19,968 --> 00:01:22,916
+Moving on to slide 6.
+
+31
+00:01:22,916 --> 00:01:25,864
+Fractions and Decimals.
+
+32
+00:01:25,864 --> 00:01:28,812
+Fractions represent parts of a whole.
+
+33
+00:01:28,812 --> 00:01:31,760
+Decimals are another form of fractions.
+
+34
+00:01:31,760 --> 00:01:34,708
+Examples: ½ = 0.5.
+
+35
+00:01:34,708 --> 00:01:37,656
+¼ = 0.25.
+
+36
+00:01:37,656 --> 00:01:40,857
+Moving on to slide 7.
+
+37
+00:01:40,857 --> 00:01:44,059
+Introduction to Algebra.
+
+38
+00:01:44,059 --> 00:01:47,260
+Uses letters to represent numbers.
+
+39
+00:01:47,260 --> 00:01:50,462
+Variables like x, y, a.
+
+40
+00:01:50,462 --> 00:01:53,664
+Example: x + 5 = 10. x = 5.
+
+41
+00:01:53,664 --> 00:01:56,692
+Moving on to slide 8.
+
+42
+00:01:56,692 --> 00:01:59,721
+Geometry Basics.
+
+43
+00:01:59,721 --> 00:02:02,750
+Study of shapes and space.
+
+44
+00:02:02,750 --> 00:02:05,779
+Common shapes: triangle, square, circle.
+
+45
+00:02:05,779 --> 00:02:08,808
+Concepts: area, perimeter, volume.
+
+46
+00:02:08,808 --> 00:02:11,419
+Moving on to slide 9.
+
+47
+00:02:11,419 --> 00:02:14,030
+Importance of Physics.
+
+48
+00:02:14,030 --> 00:02:16,641
+Improves logical thinking.
+
+49
+00:02:16,641 --> 00:02:19,252
+Enhances problem-solving skills.
+
+50
+00:02:19,252 --> 00:02:21,864
+Essential for science, engineering, finance.
+
+51
+00:02:21,864 --> 00:02:23,640
+Moving on to slide 10.
+
+52
+00:02:23,640 --> 00:02:25,416
+Conclusion.
+
+53
+00:02:25,416 --> 00:02:27,192
+Physics is everywhere.
+
+54
+00:02:27,192 --> 00:02:28,968
+Strong basics are essential.
+
+55
+00:02:28,968 --> 00:02:30,744
+Practice leads to mastery.
+
+56
+00:02:30,744 --> 00:02:32,520
+Thank You!
+

@@ -1,0 +1,54 @@
+{
+  "slides": [
+    {
+      "image_path": "slides/slide_1.png",
+      "slide_text": "Foundations of Physics. Understanding Numbers, Patterns, and Logic.",
+      "narration_text": "Welcome to today's presentation. Foundations of Physics. Understanding Numbers, Patterns, and Logic."
+    },
+    {
+      "image_path": "slides/slide_2.png",
+      "slide_text": "What is Physics? Study of numbers, shapes, patterns, and. relationships. Helps solve real-world problems. Used in science, technology, and daily life.",
+      "narration_text": "Moving on to slide 2. What is Physics? Study of numbers, shapes, patterns, and. relationships. Helps solve real-world problems. Used in science, technology, and daily life."
+    },
+    {
+      "image_path": "slides/slide_3.png",
+      "slide_text": "Types of Numbers. Natural Numbers: 1, 2, 3. Whole Numbers: 0, 1, 2. Integers: -2, -1, 0, 1. Rational and Irrational Numbers.",
+      "narration_text": "Moving on to slide 3. Types of Numbers. Natural Numbers: 1, 2, 3. Whole Numbers: 0, 1, 2. Integers: -2, -1, 0, 1. Rational and Irrational Numbers."
+    },
+    {
+      "image_path": "slides/slide_4.png",
+      "slide_text": "Basic Arithmetic Operations. Addition (+). Subtraction (-). Multiplication (×). Division (÷). Example: 8 ÷ 2 = 4.",
+      "narration_text": "Moving on to slide 4. Basic Arithmetic Operations. Addition (+). Subtraction (-). Multiplication (×). Division (÷). Example: 8 ÷ 2 = 4."
+    },
+    {
+      "image_path": "slides/slide_5.png",
+      "slide_text": "Order of Operations (BODMAS). Brackets. Orders (powers, roots). Division and Multiplication. Addition and Subtraction. Example: 2 + 3 × 4 = 14.",
+      "narration_text": "Moving on to slide 5. Order of Operations (BODMAS). Brackets. Orders (powers, roots). Division and Multiplication. Addition and Subtraction. Example: 2 + 3 × 4 = 14."
+    },
+    {
+      "image_path": "slides/slide_6.png",
+      "slide_text": "Fractions and Decimals. Fractions represent parts of a whole. Decimals are another form of fractions. Examples: ½ = 0.5. ¼ = 0.25.",
+      "narration_text": "Moving on to slide 6. Fractions and Decimals. Fractions represent parts of a whole. Decimals are another form of fractions. Examples: ½ = 0.5. ¼ = 0.25."
+    },
+    {
+      "image_path": "slides/slide_7.png",
+      "slide_text": "Introduction to Algebra. Uses letters to represent numbers. Variables like x, y, a. Example: x + 5 = 10. x = 5.",
+      "narration_text": "Moving on to slide 7. Introduction to Algebra. Uses letters to represent numbers. Variables like x, y, a. Example: x + 5 = 10. x = 5."
+    },
+    {
+      "image_path": "slides/slide_8.png",
+      "slide_text": "Geometry Basics. Study of shapes and space. Common shapes: triangle, square, circle. Concepts: area, perimeter, volume.",
+      "narration_text": "Moving on to slide 8. Geometry Basics. Study of shapes and space. Common shapes: triangle, square, circle. Concepts: area, perimeter, volume."
+    },
+    {
+      "image_path": "slides/slide_9.png",
+      "slide_text": "Importance of Physics. Improves logical thinking. Enhances problem-solving skills. Essential for science, engineering, finance.",
+      "narration_text": "Moving on to slide 9. Importance of Physics. Improves logical thinking. Enhances problem-solving skills. Essential for science, engineering, finance."
+    },
+    {
+      "image_path": "slides/slide_10.png",
+      "slide_text": "Conclusion. Physics is everywhere. Strong basics are essential. Practice leads to mastery. Thank You!",
+      "narration_text": "Moving on to slide 10. Conclusion. Physics is everywhere. Strong basics are essential. Practice leads to mastery. Thank You!"
+    }
+  ]
+}

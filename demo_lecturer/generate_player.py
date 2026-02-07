@@ -465,7 +465,7 @@ html += f"""                </div>
         {lecture_context_js}
 
         const CACHE_BUSTER = '{cache_buster}';
-        const QA_SERVER = 'http://localhost:5001';  // Q&A API server
+        const QA_SERVER = '';  // Q&A API server
 
         let currentSlide = 1;
         let isQAMode = false;

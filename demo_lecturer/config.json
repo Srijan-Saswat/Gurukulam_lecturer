@@ -1,0 +1,12 @@
+{
+  "tts_model": "tts_models/en/ljspeech/vits",
+  "voice_clone_path": null,
+  "output_dir": "output",
+  "slides_dir": "slides",
+  "temp_dir": "temp",
+  "video_fps": 30,
+  "video_resolution": [
+    1920,
+    1080
+  ]
+}
